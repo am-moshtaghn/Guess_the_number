@@ -1,2 +1,2 @@
 # Guess-a-number
-this program can guess your number : )
+This program can guess your number : )
